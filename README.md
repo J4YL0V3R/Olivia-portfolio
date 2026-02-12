@@ -1,1 +1,13 @@
 # Year12-and-Year13-Portfolio
+Welcome to your Digital Technologies (DTC) Portfolio Project. Throughout this term, you will develop a personal portfolio that showcases the skills, techniques, and project outcomes you create in DTC. This portfolio will also serve as evidence for your assessment later in the year. Please read the following instructions carefully before beginning. --- 
+## Project Overview This repository contains the template for your DTC Portfolio. You will update this portfolio as you complete each learning topic in class. - New topics are introduced every 1–2 weeks. - At the end of each topic, you must complete a checkpoint by updating your portfolio. 
+### Checkpoint Requirements - Your portfolio must contain all learning and project material for that topic. - Your pages should be functional, tidy, and correctly linked. 
+### If a Checkpoint Is Missed - You will be required to attend a mini‑chat with the teacher. - An email home will be sent to caregivers. These expectations ensure steady progress and prevent last‑minute workload pressure. --- 
+## This Week’s Learning Focus This week, you will learn the fundamentals of: - HTML – the structure and content of a webpage - CSS – styling and visual design Your first task will be to create a simple Bio Page using these skills. --- 
+## Task 1: Fork the Template Before beginning any work: 
+1. Go to the GitHub repository shared in class.
+2. Select Fork to create your own copy.
+3. Clone or download your forked version to begin editing. All work for this project must be completed within your forked repository. ---
+## Task 2: Create Your Bio Page Inside the template folder, create or edit the file designated for your bio. Your Bio Page must include: - Your name - Your interests - Your reason for choosing DTC - What you are looking forward to this year This is a simple introductory page designed to help you practise basic HTML and CSS. --- 
+## Task 3: Link Your Bio Page to the Portfolio Homepage The portfolio homepage in the template includes: - A main heading - A subheading describing the media outcomes you will explore - A photo card section containing three card placeholders - A Tools and Techniques subheading Your task: - Add a working navigation link from the portfolio homepage to your Bio Page. - Ensure file paths are correct, and the link loads without errors. This link will remain in your portfolio for the rest of the project. --- 
+## End‑of‑Week Checklist By the end of this week, you must have: - Forked the GitHub repository - Created your Bio Page - Completed all required bio information - Linked the Bio Page to the portfolio homepage - Committed and pushed all changes to your GitHub fork
